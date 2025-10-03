@@ -1,1 +1,3 @@
 Windows suck
+
+Commit message test
